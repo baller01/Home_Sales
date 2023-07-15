@@ -7,14 +7,8 @@ Used the knowledge of SparkSQL to determine key metrics about home sales data an
 
 This repository contains code that performs analysis on a dataset of home sales using Apache Spark SQL.
 
-## Prerequisites
 
-- Apache Spark 3.4.0
-- Java 11
-
-## Usage
-
-The code performs various Spark SQL operations on a dataset of home sales. It includes the following functionality:
+## The code performs various Spark SQL operations on a dataset of home sales. It includes the following functionality:
 
 - Reading a CSV file from an AWS S3 bucket into a DataFrame.
 - Creating temporary views of the DataFrame.
