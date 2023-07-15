@@ -1,4 +1,4 @@
-!(https://cdn1.vectorstock.com/i/1000x1000/73/25/cartoon-concept-for-sale-house-vector-23117325.jpg)
+<img width="977" alt="1" src="https://github.com/baller01/Home_Sales/assets/123272517/1d9b4c2d-e63e-4695-8fbb-aba01a0a5624">
 
 # Home_Sales
 Used the knowledge of SparkSQL to determine key metrics about home sales data and used Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
