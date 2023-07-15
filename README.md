@@ -16,10 +16,10 @@ This repository contains code that performs analysis on a dataset of home sales 
 
 The code performs various Spark SQL operations on a dataset of home sales. It includes the following functionality:
 
-- Reading a CSV file from an AWS S3 bucket into a DataFrame
-- Creating temporary views of the DataFrame
-- Executing SQL queries to analyze the dataset
-- Caching and uncaching tables for performance optimization
-- Working with parquet formatted data
+- Reading a CSV file from an AWS S3 bucket into a DataFrame.
+- Creating temporary views of the DataFrame.
+- Executing SQL queries to analyze the dataset.
+- Caching and uncaching tables for performance optimization.
+- Working with parquet formatted data.
 
 
